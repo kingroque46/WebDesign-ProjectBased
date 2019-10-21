@@ -1,0 +1,14 @@
+.btn {
+    color: #0099CC; 
+    background: transparent;
+    border-radius: 6px;
+}
+hr.grey {
+    border: 1px solid grey;
+}
+.carousel .carousel-item {
+    width:300px !important;}
+    
+.tabs .indicator{
+    background-color:red;/*your color*/
+    }
